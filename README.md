@@ -15,3 +15,25 @@
 Выполнен fork репозитория https://github.com/Kurtyanik/LR6/ в личное хранилище.
 
 ![Fork репозитория](screenshots/image2.png)
+
+#### 3. Установка Git
+
+![Гит версия](screenshots/image3.png)
+
+#### 4. Настройка git
+![Гит инфо](screenshots/image4.png)
+
+#### 5. Клонирование своего личного удалённый репозитория на компьютер
+
+![Клон репо](screenshots/image5.png)
+
+#### 6. Добавление файла через интерфейс GitHub. Подтянуть изменения в локальный репозиторий 
+
+
+![Интерфейс](screenshots/image6.png)
+
+![Гит пул](screenshots/image7.png)
+
+#### 7. Получена история операций
+
+![История операций](screenshots/image8.png)
